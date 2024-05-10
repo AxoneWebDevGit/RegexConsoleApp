@@ -1,0 +1,14 @@
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\bin\Release\net8.0\RegexConsoleApp.exe
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\bin\Release\net8.0\RegexConsoleApp.deps.json
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\bin\Release\net8.0\RegexConsoleApp.runtimeconfig.json
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\bin\Release\net8.0\RegexConsoleApp.dll
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\bin\Release\net8.0\RegexConsoleApp.pdb
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.AssemblyInfoInputs.cache
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.AssemblyInfo.cs
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.csproj.CoreCompileInputs.cache
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.dll
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\refint\RegexConsoleApp.dll
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.pdb
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\RegexConsoleApp.genruntimeconfig.cache
+E:\Om\Projects\ConsoleApp\RegexConsoleApp\RegexConsoleApp\obj\Release\net8.0\ref\RegexConsoleApp.dll

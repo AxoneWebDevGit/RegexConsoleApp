@@ -1,0 +1,5 @@
+E:\Om\Projects\ConsoleApp\Publish\RegexConsoleApp\100524\RegexConsoleApp.exe
+E:\Om\Projects\ConsoleApp\Publish\RegexConsoleApp\100524\RegexConsoleApp.dll
+E:\Om\Projects\ConsoleApp\Publish\RegexConsoleApp\100524\RegexConsoleApp.deps.json
+E:\Om\Projects\ConsoleApp\Publish\RegexConsoleApp\100524\RegexConsoleApp.runtimeconfig.json
+E:\Om\Projects\ConsoleApp\Publish\RegexConsoleApp\100524\RegexConsoleApp.pdb
